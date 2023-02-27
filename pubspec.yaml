@@ -1,6 +1,6 @@
 name: json_pretty
 description: Showing pretty JSON.
-version: 0.0.2
+version: 1.0.2
 homepage: https://github.com/Usmoxan/json_pretty
 
 environment:

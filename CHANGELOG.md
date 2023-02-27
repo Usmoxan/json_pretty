@@ -5,3 +5,7 @@ Showing pretty JSON
 ## 0.0.2
 
 Example fixed
+
+## 1.0.2
+
+Fixed
