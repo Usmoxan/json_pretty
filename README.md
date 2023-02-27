@@ -4,6 +4,10 @@
 
 You can pretty the JSON in String state
 
+Image:
+![MarineGEO circle logo](https://raw.githubusercontent.com/Usmoxan/usmoxan.github.io/main/example_image.jpg "MarineGEO logo")
+
+
 
 ## Usage
 
