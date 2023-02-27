@@ -13,3 +13,7 @@ Fixed
 ## 1.0.3
 
 Example Image added
+
+## 1.0.4
+
+Example added
